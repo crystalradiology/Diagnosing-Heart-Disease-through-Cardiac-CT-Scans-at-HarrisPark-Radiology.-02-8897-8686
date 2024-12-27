@@ -1,0 +1,2 @@
+# Diagnosing-Heart-Disease-through-Cardiac-CT-Scans-at-HarrisPark-Radiology.-02-8897-8686
+A Cardiac CT scan is a non-invasive imaging procedure that uses X-rays to create high-resolution images of the heart and its associated structures. Physicians rely on this advanced diagnostic tool to detect various heart conditions, including coronary artery disease, blood clots, heart defects, tumors, and more.
